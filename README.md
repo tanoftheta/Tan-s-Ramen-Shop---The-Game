@@ -1,5 +1,5 @@
 # Ramen-Shop--The-Game
- fun lil mini game!! made in 12 hours. Will optimize for OOP at later date. 
+ fun lil mini game w/ pygame!! made in 12 hours. Will optimize for OOP at later date. 
  
  Will slowly make this game more advanced -- levels, a more complex UI, a local leaderboard,  etc. 
  
