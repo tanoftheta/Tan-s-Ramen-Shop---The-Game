@@ -3,7 +3,7 @@
  
  Will slowly make this game more advanced -- levels, a more complex UI, a local leaderboard,  etc. 
  
-Thanks for checking out Tan's Ramen Shop/ 
+Thanks for checking out Tan's Ramen Shop :) 
  
  For the ramen lovers (mainly me) 🍜🥢 
  
