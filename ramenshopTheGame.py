@@ -96,7 +96,7 @@ def main():
                 egg2.RESPAWN()
 
         if enemyegg.y > ramenlover.y and lives != 0: 
-            if ramenlover.x <= enemyegg.x <= ramenlover.x + ramenlover.width//2:
+            if ramenlover.x <= enemyegg.x + enemyegg.width//2 and enemyegg.x <= ramenlover.x + ramenlover.width*.65:
                 lives -= 1
                 enemyegg.RESPAWN()
                 pygame.mixer.Channel(2).play(eggcrack, loops=0)
